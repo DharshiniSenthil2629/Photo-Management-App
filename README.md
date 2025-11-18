@@ -45,29 +45,34 @@ You can update:
 
 ---
 
-### 📂 Project Structure
-photo-app/
-│── src/
-│ ├── components/
-│ │ ├── Gallery.jsx
-│ │ ├── PhotoDetails.jsx
-│ │ ├── UploadPhoto.jsx
-│ │ ├── UploadOnly.jsx
-│ ├── context/
-│ │ ├── PhotoContext.jsx
-│ ├── utils/
-│ │ ├── uploadToCloudinary.js
-│ ├── App.jsx
-│ ├── main.jsx
+### 📂 Project Structurephoto-app/
 │
-│── server/
-│ ├── index.js
+├── src/
+│   ├── components/
+│   │   ├── Gallery.jsx
+│   │   ├── PhotoDetails.jsx
+│   │   ├── UploadPhoto.jsx
+│   │   ├── UploadOnly.jsx
+│   │
+│   ├── context/
+│   │   ├── PhotoContext.jsx
+│   │
+│   ├── utils/
+│   │   ├── uploadToCloudinary.js
+│   │
+│   ├── App.jsx
+│   ├── main.jsx
 │
-│── public/
-│── .gitignore
-│── package.json
-│── README.md
-│── vite.config.js
+├── server/
+│   ├── index.js
+│
+├── public/
+│
+├── .gitignore
+├── package.json
+├── README.md
+├── vite.config.js
+
 
 
 ---
