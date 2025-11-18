@@ -1,0 +1,72 @@
+/* ---------- Upload Page -------- */
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+.card {
+  background: #ffffff;
+  padding: 24px;
+  border-radius: 16px;
+  box-shadow: 0px 6px 20px rgba(0,0,0,0.06);
+  border: 1px solid #eee;
+}
+
+h2 {
+  font-size: 26px;
+  font-weight: 700;
+  color: #151515;
+}
+
+/* Inputs */
+.input, textarea, input[type="file"] {
+  width: 100%;
+  margin-top: 6px;
+  padding: 10px 12px;
+  border-radius: 10px;
+  border: 1px solid #ccc;
+  background: #f8f8fb;
+  transition: 0.2s ease;
+}
+
+.input:focus, textarea:focus {
+  border-color: #5A4FF3;
+  background: #fff;
+  outline: none;
+}
+
+/* Buttons */
+.btn-primary {
+  background: #5A4FF3;
+  color: white;
+  padding: 8px 18px;
+  border-radius: 8px;
+}
+
+.btn-primary:hover {
+  background: #443adf;
+}
+
+.link {
+  color: #5A4FF3;
+  font-size: 14px;
+}
+
+.small-muted {
+  color: #777;
+  font-size: 13px;
+}
+.card {
+  padding: 26px;
+  border-radius: 18px;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 6px 20px rgba(0,0,0,0.06);
+}
+
+h2 {
+  font-size: 26px;
+  margin-bottom: 16px;
+}
