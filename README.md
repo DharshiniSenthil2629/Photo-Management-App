@@ -45,37 +45,6 @@ You can update:
 
 ---
 
-### 📂 Project Structurephoto-app/
-│
-├── src/
-│   ├── components/
-│   │   ├── Gallery.jsx
-│   │   ├── PhotoDetails.jsx
-│   │   ├── UploadPhoto.jsx
-│   │   ├── UploadOnly.jsx
-│   │
-│   ├── context/
-│   │   ├── PhotoContext.jsx
-│   │
-│   ├── utils/
-│   │   ├── uploadToCloudinary.js
-│   │
-│   ├── App.jsx
-│   ├── main.jsx
-│
-├── server/
-│   ├── index.js
-│
-├── public/
-│
-├── .gitignore
-├── package.json
-├── README.md
-├── vite.config.js
-
-
-
----
 
 ## 🔧 Setup Instructions
 
