@@ -45,7 +45,7 @@ You can update:
 
 ---
 
-## 📂 Project Structure
+### 📂 Project Structure
 photo-app/
 │── src/
 │ ├── components/
